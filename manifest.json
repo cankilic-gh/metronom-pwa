@@ -2,7 +2,7 @@
   "name": "Metronom",
   "short_name": "Metronom",
   "description": "Professional metronome with subdivision control",
-  "start_url": "./metronom-pwa/index.html",
+  "start_url": "/metronom-pwa/index.html",
   "display": "standalone",
   "background_color": "#1f2937",
   "theme_color": "#4fd1c7",
